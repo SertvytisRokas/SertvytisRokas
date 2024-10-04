@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Well Hello](./images/well-hello.gif)
+
 <!--
 **SertvytisRokas/SertvytisRokas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
