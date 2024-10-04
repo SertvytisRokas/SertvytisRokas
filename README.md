@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![Well Hello](./images/well-hello.gif)
+<p align="center">
+  <img src="./images/well-hello.gif" alt="Well Hello" />
+</p>
 
 <!--
 **SertvytisRokas/SertvytisRokas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
