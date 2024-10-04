@@ -11,7 +11,21 @@ During my **Bachelor’s in Computer Science**, I delved into languages like Jav
 
 Since making that transition, I’ve worked on a variety of projects, from predictive modeling to risk analysis, focusing on **real-world applications** that drive both personal and professional growth. I enjoy working on projects involving **healthcare, sustainability, sports analytics**, and scenarios that push the boundaries of problem-solving. My goal is to create solutions that not only simplify complex data but also contribute to positive change in the world.
 
+
+## 🛠️ Technologies and Tools I use:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 <!--
+
 ## Skills
 
 - **Programming Languages**: Python, Java, C#, SQL, C++, R
