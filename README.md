@@ -3,7 +3,7 @@
   <h2>Hola 👋</h2>
 </div>
 
-## About Me
+## 🌍 About Me
 
 Hey there! I'm Rokas, a **data science enthusiast** with a strong foundation in **computer science**. I enjoy diving into data to uncover patterns and building machine learning models that deliver clear, actionable insights.
 
