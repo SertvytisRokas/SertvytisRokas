@@ -9,8 +9,7 @@ Hey there! I'm Rokas, a **data science enthusiast** with a strong foundation in 
 
 During my **Bachelor’s in Computer Science**, I delved into languages like Java, C#, SQL, C++, and Python, even creating a video game from scratch using Unity. While that experience was rewarding, I eventually found my passion in **data science and machine learning**, where I felt I could make a deeper impact by solving real-world challenges.
 
-Since making that transition, I’ve worked on a variety of projects, from predictive modeling to risk analysis, with a particular focus on **real-world applications** that make a difference. I enjoy working on projects involving **healthcare, sustainability, sports analytics**, and scenarios that push the boundaries of problem-solving. My goal is to create solutions that offer clarity from complex data, while continually expanding my understanding of the field.
-
+Since making that transition, I’ve worked on a variety of projects, from predictive modeling to risk analysis, focusing on **real-world applications** that drive both personal and professional growth. I enjoy working on projects involving **healthcare, sustainability, sports analytics**, and scenarios that push the boundaries of problem-solving. My goal is to create solutions that not only simplify complex data but also contribute to positive change in the world.
 
 <!--
 ## Skills
