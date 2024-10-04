@@ -26,9 +26,13 @@ Since making that transition, I’ve worked on a variety of projects, from predi
 </p>
 
 
-## Let’s Connect!
+## 🤝 Let’s Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/rokas-sertvytis/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rokas-sertvytis/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 <!--
 **SertvytisRokas/SertvytisRokas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
