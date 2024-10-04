@@ -1,8 +1,7 @@
 <p align="center">
   <img src="./images/well-hello.gif" alt="Well Hello" /><br/>
-  <h2>Hola 👋</h2>
+  <h2 style="text-align: center;">Hola 👋</h2>
 </p>
-
 
 
 <!--
