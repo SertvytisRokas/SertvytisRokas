@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./images/well-hello.gif" alt="Well Hello" /><br/>
-  <h2>Hola 👋</h2>
+  <strong><span style="font-size: 24px;">Hola 👋</span></strong>
 </p>
 
 
